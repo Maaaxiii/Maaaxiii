@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maximilian</h1>
-<h3 align="center">A fullstack developer and football 🏈 lover from Germany. Currently on the way to a bachelor's degree 👨‍🎓</h3>
+<h3 align="center">A fullstack developer and football 🏈 lover from Germany. B.Sc in Computer Science 👨‍🎓</h3>
 
 
 - 🔭 I’m currently working on **company stuff**
